@@ -16,6 +16,7 @@ The app is built to show a real Backboard integration, not a thin chat wrapper:
 - Gian Sandoval
 - LinkedIn: https://www.linkedin.com/in/giansandoval
 - GitHub: https://github.com/GianSandoval5
+- BackBoard: https://app.backboard.io/signup?ref=OG2DQZLQ
 
 ## License
 
